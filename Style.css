@@ -1,0 +1,63 @@
+nav{
+	background-color: white;
+	height: 20px;
+	border: solid;
+	padding: 30px;
+	margin: 0 auto;
+	font-family: courier;
+	font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+}
+
+
+.navigation{
+	color: black;
+	font-family: courier;
+	display: block;
+	display: inline-block;
+	display: flex;
+ 
+
+}
+
+#OVERVIEW{
+	text-decoration:none; 
+	color: black;
+	transition: 1s;
+	flex:1;
+
+}
+#OVERVIEW:hover{
+	color:yellow;
+}
+
+
+#EPISODES{
+	text-decoration: none; 
+	color: black;
+	transition: 1s;
+	flex:1;
+}
+
+#EPISODES:hover{
+	color:yellow;
+}
+
+#PRESS{
+	text-decoration: none;
+	color: black;
+	transition: 1s;
+	flex: 1;
+}
+
+#PRESS:hover{
+	color:yellow;
+}
+
+
+body{
+	background-image:url('http://i.giphy.com/EyYbasSA9n8NG.gif');
+	background-size: 100%;
+}
+

@@ -1,0 +1,48 @@
+div{
+  text-align: center;
+  width: auto;
+  height: auto;
+  border: white 1px solid;
+  padding: 20px;
+
+}
+
+
+h1{
+	font-family: courier;
+	font-weight: bold;
+	color: white;
+	font-size: 35px;
+	margin-bottom: 0 auto;
+}
+
+body{
+	background: url(http://hdwallpaperia.com/wp-content/uploads/2013/12/Broken-Glass-Wallpaper-For-Desktop.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: absolute;
+	background-size: cover;
+	
+
+}
+iframe{
+	width: 800px;
+	height: 600px;
+	margin: 0 auto;
+}
+p{
+	width: auto;
+	height: auto;
+	margin: 0 auto;
+
+}
+
+.flex-center {
+	color: white;
+	background-color: rgba(0,0,0,.5);
+	display: flex;
+	justify-content: center;
+}
+
+

@@ -1,0 +1,29 @@
+
+h1{
+	font-family: courier;
+	font-weight: bold;
+	text-align: 
+	color: yellow;
+	font-size: 35px;
+	margin-bottom: 0 auto;
+}
+
+iframe{
+	width: 800px;
+	height: 600px;
+	margin: 0 auto;
+	position: center
+}
+
+body{
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/ff/ef/4c/ffef4c5da09cd2d6e23d05efec475da0.jpg); top right: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: courier;
+	font-size: 15px;
+	text-align: center;
+	margin: 0 auto;
+	color:yellow;
+}
+
+	

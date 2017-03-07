@@ -1,0 +1,41 @@
+
+header{
+	text-align: center;
+	font-size: 50px;
+	font-family: courier;
+	font-weight: bold;
+	padding: 20px;
+	color: yellow;
+}
+
+body{
+    background-image: url(http://www.likehdwallpaper.com/wp-content/uploads/Texture/FTP1/1280x720/Broken%20glass%20texture%20wallpaper%2005%201280x720.jpg); top right: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+table {
+	border-collapse: collapse;
+	margin:0 auto;
+	max-width: 500px;
+}
+
+table, th, tr, td{
+	border: 1px solid black;
+	border-collapse: separate;
+	border-spacing: 10px 50px;
+	width: 500px;
+	height:35px;
+	padding: 10px;
+	text-align: center;
+	font-size: 20px;
+	font-family: courier;
+	color: white;
+	margin: 0 auto;
+}
+
+th{
+	font-size: 35px;
+	font-weight: bold;
+}
